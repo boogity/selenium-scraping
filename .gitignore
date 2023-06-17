@@ -1,3 +1,9 @@
+# Ignore venv
+selenium/
+
+###############################################################################
+#                       GITHUB TEMPLATE BELOW THIS LINE
+###############################################################################
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
