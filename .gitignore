@@ -1,5 +1,7 @@
 # Ignore venv
 selenium/
+# Ignore chrome browser binaries
+*.exe
 
 ###############################################################################
 #                       GITHUB TEMPLATE BELOW THIS LINE
